@@ -1,9 +1,14 @@
-// Ashma Henry
-// Advanced Algorithms
-// Dr. Terry Griffin
-// 1/22/2018
-/* This program : uses a method called orderedSert that
-would add an integer to a list while maintaining ascending order.*/
+///////////////////////////////////////////////////////////////////////////////
+// Title: Priority Queue
+// Files: main.cpp
+// Semester: 3013- Advance Structures and Algorithms Spring 2018
+// Author: Ashma Henry
+// Email: geneve.ash@gmail.com
+// Description:
+// This program : uses a method called orderedSert that
+// would add an integer to a list while maintaining ascending order.
+/////////////////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <ctime>
 
