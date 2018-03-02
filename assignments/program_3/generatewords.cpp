@@ -3,7 +3,7 @@ ifstream infile;
 
 	// opening of files
 	outfile.open("tenthousandwords.txt");
-	infile.open("adjectives.txt");
+	infile.open("word_files/adjectives.txt");
 
 	srand(time(NULL));
 
@@ -28,7 +28,7 @@ ifstream infile;
 	}
 	infile.close();
 
-	infile.open("adverbs.txt");
+	infile.open("word_files/adverbs.txt");
 
 	//error checking
 	if (!infile)
@@ -47,7 +47,7 @@ ifstream infile;
 
 	}
 	infile.close();
-	infile.open("animals.txt");
+	infile.open("word_files/animals.txt");
 	
 	if (!infile)
 	{
@@ -66,7 +66,7 @@ ifstream infile;
 	}
 
 	infile.close();
-	infile.open("nouns.txt");
+	infile.open("word_files/nouns.txt");
 	
 	if (!infile)
 	{
@@ -85,7 +85,7 @@ ifstream infile;
 	}
 
 	infile.close();
-	infile.open("verbs.txt");
+	infile.open("word_files/verbs.txt");
 	
 	if (!infile)
 	{
