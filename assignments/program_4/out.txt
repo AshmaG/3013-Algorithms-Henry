@@ -1,0 +1,18 @@
+Lebanon, Kansas
+ 933515 miles 1428 edges
+
+Miami, Florida
+ 8.4763e+06 miles 2370 edges
+
+Dallas, Texas
+ 5.97782e+06 miles 4920 edges
+
+Boston, Massachusetts
+ 1.45791e+06 miles 1521 edges
+
+San Juan, Puerto Rico
+ 46726.8 miles 297 edges
+
+San Juan, Puerto Rico
+ 46726.8 miles 297 edges
+
