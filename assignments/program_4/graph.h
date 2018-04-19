@@ -1,3 +1,14 @@
+///////////////////////////////////////////////////////////////////////////////
+//             
+// Title:            graph.h
+// Semester:         Spring 2018
+//
+// Author:           Ashma Henry
+// Email:            geneve.ash@gmail.com
+// Description:
+//       This file creates the graph using a spanning tree
+/////////////////////////////////////////////////////////////////////////////////
+
 #pragma once
 #pragma once
 
