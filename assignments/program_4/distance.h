@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+//             
+// Title:            distance.h
+// Semester:         Spring 2018
+//
+// Author:           Ashma Henry
+// Email:            geneve.ash@gmail.com
+// Description:
+//       This file calculates the distance using latitude and longtitude
+/////////////////////////////////////////////////////////////////////////////////
+
+
 #define _USE_MATH_DEFINES
 #include <math.h>
 #include <cmath> 
